@@ -1,0 +1,221 @@
+Searching for integrator.xml ...
+
+init:
+
+dita2html5-bootstrap.init:
+
+html5.init:
+
+init-properties:
+[init-project] Initializing project
+
+check-arg:
+   [delete] Deleting directory /home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692
+    [mkdir] Created dir: /home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692
+
+log-arg:
+     [echo] *****************************************************************
+     [echo] * basedir = /home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1
+     [echo] * dita.dir = /home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1
+     [echo] * transtype = html5-bootstrap
+     [echo] * tempdir = /home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692
+     [echo] * outputdir = /home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-output/html5-bootstrap
+     [echo] * clean.temp = true
+     [echo] * DITA-OT version = 3.6.1
+     [echo] * XML parser = Xerces
+     [echo] * XSLT processor = Saxon
+     [echo] * collator = ICU
+     [echo] *****************************************************************
+     [echo] #Ant properties
+     [echo] #Tue May 21 17:51:50 GMT 2024
+     [echo] dita.plugin.org.dita.base.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.base
+     [echo] dita.temp.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692
+     [echo] args.xsl=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/xsl/html5-bootstrap.xsl
+     [echo] args.html5.toc=toc
+     [echo] args.grammar.cache=yes
+     [echo] dita.plugin.org.oasis-open.xdita.v0_2_2.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.xdita.v0_2_2
+     [echo] dita.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1
+     [echo] dita.plugin.org.dita.pdf2.axf.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.axf
+     [echo] args.hdf=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/includes/bootstrap.hdf.xml
+     [echo] args.copycss=yes
+     [echo] args.csspath=css
+     [echo] dita.plugin.org.oasis-open.dita.v1_3.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v1_3
+     [echo] dita.plugin.org.lwdita.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.lwdita
+     [echo] dita.plugin.org.oasis-open.dita.v2_0.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v2_0
+     [echo] args.hdr=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/includes/bs-navbar-default.hdr.xml
+     [echo] dita.plugin.org.dita.htmlhelp.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.htmlhelp
+     [echo] dita.output.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-output/html5-bootstrap
+     [echo] dita.plugin.org.dita.eclipsehelp.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.eclipsehelp
+     [echo] dita.plugin.org.dita.normalize.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.normalize
+     [echo] dita.plugin.org.dita.xhtml.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.xhtml
+     [echo] dita.plugin.org.dita.pdf2.xep.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.xep
+     [echo] dita.plugin.org.dita.specialization.dita11.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.specialization.dita11
+     [echo] dita.plugin.org.oasis-open.dita.v1_2.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v1_2
+     [echo] dita.plugin.org.dita.pdf2.fop.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.fop
+     [echo] args.input=/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/Echo_2_Smartpen_User_Guide.ditamap
+     [echo] args.xml.systemid.set=yes
+     [echo] dita.plugin.org.dita.pdf2.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2
+     [echo] dita.plugin.org.dita.html5.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.html5
+     [echo] dita.html5.reloadstylesheet=false
+     [echo] dita.plugin.org.oasis-open.dita.techcomm.v2_0.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.techcomm.v2_0
+     [echo] dita.plugin.org.dita.index.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.index
+     [echo] dita.plugin.net.infotexture.dita-bootstrap.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap
+     [echo] dita.plugin.fox.jason.extend.css.dir=/home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/fox.jason.extend.css
+     [echo] dita.extname=dita
+     [echo] *****************************************************************
+
+build-init:
+
+preprocess.init:
+     [echo] *****************************************************************
+     [echo] * input = /home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/Echo_2_Smartpen_User_Guide.ditamap
+     [echo] * resources = ${args.resources}
+     [echo] *****************************************************************
+
+ditaval-merge:
+
+gen-list:
+ [gen-list] Using Xerces grammar pool for DTD and schema caching.
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/Echo_2_Smartpen_User_Guide.ditamap
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/Echo_2_Smartpen.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/references/Inventory.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/references/Maintenance.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/tasks/Connect_an_Audio_Device_via_Bluetooth.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/tasks/Create_a_Recording.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/tasks/Play_Back_a_Recording.dita
+ [gen-list] Serializing job specification
+
+debug-filter:
+   [filter] Using Xerces grammar pool for DTD and schema caching.
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/tasks/Create_a_Recording.dita to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/tasks/Create_a_Recording.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/Echo_2_Smartpen.dita to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/Echo_2_Smartpen.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/references/Maintenance.dita to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/references/Maintenance.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/references/Inventory.dita to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/references/Inventory.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/tasks/Connect_an_Audio_Device_via_Bluetooth.dita to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/tasks/Connect_an_Audio_Device_via_Bluetooth.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/tasks/Play_Back_a_Recording.dita to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/tasks/Play_Back_a_Recording.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/source/0/Echo_2_Smartpen_User_Guide.ditamap to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/Echo_2_Smartpen_User_Guide.ditamap
+
+mapref-check:
+
+mapref:
+   [mapref] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/Echo_2_Smartpen_User_Guide.ditamap
+
+branch-filter:
+[branch-filter] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/Echo_2_Smartpen_User_Guide.ditamap
+
+keyref:
+   [mapref] Transforming into /home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692
+   [mapref] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/mapref.xsl
+   [mapref] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/Echo_2_Smartpen_User_Guide.ditamap
+
+copy-to:
+
+conrefpush:
+
+conref:
+
+profile-check:
+
+profile:
+
+topic-fragment:
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/tasks/Create_a_Recording.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/Echo_2_Smartpen.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/references/Maintenance.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/references/Inventory.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/tasks/Connect_an_Audio_Device_via_Bluetooth.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/tasks/Play_Back_a_Recording.dita
+
+chunk-check:
+
+chunk:
+    [chunk] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/Echo_2_Smartpen_User_Guide.ditamap
+
+move-meta-entries:
+[move-meta] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/Echo_2_Smartpen_User_Guide.ditamap
+[move-meta] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/mappull.xsl
+[move-meta] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/Echo_2_Smartpen_User_Guide.ditamap
+
+maplink-check:
+
+maplink:
+
+topicpull-check:
+
+topicpull:
+[topicpull] Transforming into /home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692
+[topicpull] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/topicpull.xsl
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/tasks/Create_a_Recording.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/Echo_2_Smartpen.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/references/Maintenance.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/references/Inventory.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/tasks/Connect_an_Audio_Device_via_Bluetooth.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/tasks/Play_Back_a_Recording.dita
+
+clean-map-check:
+
+clean-map:
+[clean-map] Transforming into /home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692
+[clean-map] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/clean-map.xsl
+[clean-map] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/Echo_2_Smartpen_User_Guide.ditamap
+
+clean-preprocess:
+
+copy-image:
+
+copy-html:
+
+copy-flag-check:
+
+copy-flag:
+
+copy-files:
+
+extend.css.init:
+
+dita-bootstrap.css.copy:
+
+extend.css.copy:
+     [copy] Copying 1 file to /home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-output/html5-bootstrap/css
+
+extend.css:
+
+preprocess:
+
+html5.topic.init:
+
+html5.image-metadata:
+
+html5.topics.common:
+
+html5.topics.common.inner:
+     [xslt] Transforming into /home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-output/html5-bootstrap
+     [xslt] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/xsl/html5-bootstrap.xsl
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/tasks/Create_a_Recording.dita to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-output/html5-bootstrap/tasks/Create_a_Recording.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/Echo_2_Smartpen.dita to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-output/html5-bootstrap/Echo_2_Smartpen.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/references/Maintenance.dita to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-output/html5-bootstrap/references/Maintenance.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/references/Inventory.dita to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-output/html5-bootstrap/references/Inventory.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/tasks/Connect_an_Audio_Device_via_Bluetooth.dita to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-output/html5-bootstrap/tasks/Connect_an_Audio_Device_via_Bluetooth.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/tasks/Play_Back_a_Recording.dita to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-output/html5-bootstrap/tasks/Play_Back_a_Recording.html
+
+html5.topic:
+
+html5.map.init:
+
+html5.map.toc:
+     [xslt] Transforming into /home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-output/html5-bootstrap
+     [xslt] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13756788142186188637/dita-ot/dita-ot-3.6.1/plugins/org.dita.html5/xsl/map2html5-cover.xsl
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-temp1160016355301876692/Echo_2_Smartpen_User_Guide.ditamap to file:/home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-output/html5-bootstrap/toc.html
+
+html5.map:
+
+html5.css:
+     [copy] Copying 2 files to /home/dita-ot/dita-ot/dita-ot13756788142186188637/ot-output/html5-bootstrap/css
+
+html5.copy-css-user:
+
+dita2html5:
+
+dita2html5-bootstrap:
+
+clean-temp:
